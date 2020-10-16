@@ -1,1 +1,1 @@
-# midtermproj_3
+# midterm project
